@@ -2,6 +2,7 @@
 CMakeCache.*
 
 CMakeFiles/
+Makefile
 
 # Prerequisites
 *.d
